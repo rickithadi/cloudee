@@ -1,0 +1,25 @@
+<canvas #canvas id="{{ canvasId }}"></canvas>
+<div id="{{ tagListId }}" class="tag-container">
+	<a href="javascript:void(0)" *ngFor="let tag of tags"  [attr.data-weight]="tag.weight" (click)="tagClick.next(tag)" >
+                <!--  -->
+		<!-- <div *ngIf="this.options.imageMode==null"> -->
+		<!-- 	null -->
+		<!-- </div> -->
+		<!-- <div *ngIf="this.options.imageMode==='image'"> -->
+		<!-- 	image -->
+		<!-- </div> -->
+		<!-- <div *ngIf="this.options.imageMode==='both'"> -->
+		<!-- 	bothj -->
+		<!-- </div> -->
+                <!--  -->
+		<!-- <div *ngIf="this.options.imageMode==='text'"> -->
+		<!-- 	text -->
+		<!-- </div> -->
+                <!--  -->
+                <!--  -->
+
+    <img src={{tag.image}}>
+    {{ tag.text }}
+
+	</a>
+</div>

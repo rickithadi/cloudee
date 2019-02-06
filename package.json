@@ -1,0 +1,27 @@
+{
+  "name": "cloudee",
+  "version": "0.0.3",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+   "license": "MIT",
+  "author":"Hadi Rickit <rickithadi@gmail.com>",
+    "description": "An Angular 5 component wrapper for goat1000's TagCanvas library.",
+      "keywords": [
+	          "angular",
+	      "angular",
+	          "angular2",
+		      "angular 2",
+		      "angular4",
+	      "tag cloud",
+	          "tagcanvas"
+      ],
+       "repository": {
+        "type": "git",
+       "url": "https://github.com/rickithadi/cloudee.git"
+       },
+  "dependencies": {
+    "jquery-tagcanvas": "^2.9.0"
+  }
+}
