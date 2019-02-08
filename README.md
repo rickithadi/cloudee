@@ -1,9 +1,13 @@
-# Cloudy
+# Cloudee
 
 This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.0.
-        Then add TagCanvasModule to your app's module
-	Demo available here https://cloudee-demo.stackblitz.io/
-	With code https://stackblitz.com/edit/cloudee-demo
+
+forked from LucHariman/ng-tagcanvas
+
+npm install cloudee
+Then add CloudyModule to your app's module
+Demo available here https://cloudee-demo.stackblitz.io/
+With code https://stackblitz.com/edit/cloudee-demo
 
 	Usage example
 	...

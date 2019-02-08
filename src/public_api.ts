@@ -3,6 +3,6 @@
  */
 
 export * from './lib';
-// export * from './lib/cloudy.service';
-// export * from './lib/cloudy.component';
-// export * from './lib/cloudy.module';
+export * from './lib/cloudy.service';
+export * from './lib/cloudy.component';
+export * from './lib/cloudy.module';
