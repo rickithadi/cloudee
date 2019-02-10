@@ -4,6 +4,8 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 forked from LucHariman/ng-tagcanvas
 
+I write about it here https://rickithadi.com/blog/5c60b0c4a1c3ee0014d8b5fd
+
 npm install cloudee
 Then add CloudyModule to your app's module
 Demo available here https://cloudee-demo.stackblitz.io/
